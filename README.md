@@ -10,11 +10,9 @@
 
 ### 🔧 What I work with
 
-**Offensive / Recon:** Nmap · Burp Suite · Nuclei · Shodan · Censys · Metasploit · BloodHound
-**Defensive / Cloud Security:** Nessus · Trivy · Prowler · ScoutSuite · Wireshark
-**Analysis:** Ghidra · Binwalk · Semgrep
+**Built with:** Python · Flask · SQLite · bcrypt · AES-256-GCM
 
----
+**Practicing in labs (VAPT & networking coursework):** Nmap · Wireshark · Burp Suite · Nessus · Metasploit · Kali Linux
 
 ### 📌 Pinned Projects
 
